@@ -1,0 +1,17 @@
+
+div{
+width: 631px;
+background-color: green;
+}
+div#block1:hover{
+background-color: yellow;
+font-size: 20mm;
+}
+div#block2:hover{
+background-color: silver;
+font-size: 20mm;
+}
+div#block3:hover{
+background-color: blue;
+font-size: 20mm;
+}
